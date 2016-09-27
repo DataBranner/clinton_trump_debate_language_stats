@@ -1,6 +1,6 @@
 ## Measuring the reading grade-level of the language at the first Trump-Clinton debate, 20160926
 
-This little script runs as Python 2, and reports the Flesch-Kincaid Grade Level and other formal measures of "readability", using code by Shivam Bansal and Chaitanya Aggarwal. To run:
+This little script runs as Python 2, and reports the Flesch-Kincaid Grade Level and other formal measures of "readability", using [code by Shivam Bansal and Chaitanya Aggarwal](https://github.com/shivam5992/textstat). To run:
 
  1. Install and activate a Python 2 virtual environment:
 
