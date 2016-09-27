@@ -15,6 +15,7 @@ This little script runs as Python 2, and reports the Flesch-Kincaid Grade Level 
     ```bash
     python report_stats.py
     ```
+
 The `text_samples` directory contains debate-transcript text taken from [the National Public Radio site](http://www.npr.org/2016/09/26/495115346/fact-check-first-presidential-debate) (accessed 20160927) and separated by speaker.
 
 [end]
