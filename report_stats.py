@@ -7,8 +7,7 @@ print(textstat.textstatistics())
 T = textstat.textstatistics()
 
 files = {'Trump': 'DONALD_TRUMP_text',
-         'Clinton': 'HILLARY_CLINTON_text',
-         'Holt': 'LESTER_HOLT_text'}
+         'Clinton': 'HILLARY_CLINTON_text'}
 
 functions = {'Flesch Reading Ease': T.flesch_reading_ease,
              'Flesch-Kincaid Grade Level': T.flesch_kincaid_grade,
