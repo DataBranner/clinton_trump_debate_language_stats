@@ -7,7 +7,7 @@ This little script runs as Python 2, and reports the Flesch-Kincaid Grade Level 
     ```python
     virtualenv v_env2
     . v_env2/bin/activate
-    pip install -U requirements_py2.txt
+    pip install -U -r requirements_py2.txt
     ```
 
  1. Run at the command line
